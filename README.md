@@ -7,7 +7,7 @@
 ---
 ## Motivation
 
- Sample Phoenix applications to demonstrate the use [ex_ray](https://github.com/derailed/ex_ray)
+ Sample Phoenix applications to demonstrate the use [ExRay](https://github.com/derailed/ex_ray)
  and OpenTracing via [Otter](https://github.com/Bluehouse-Technology/otter)
 
 ---
