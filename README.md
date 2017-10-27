@@ -45,9 +45,12 @@
 
 1. Open Jaeger UI
 
-  ```shell
-    open http://localhost:16686
-  ```
+    Select the TraceMe service and observe the various spans associated with the api calls
+    below.
+
+    ```shell
+      open http://localhost:16686
+    ```
 
  1. Exercise the tracing APIs
 
