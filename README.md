@@ -57,7 +57,7 @@
     ```shell
     # Regular call
     curl -XGET http://localhost:4000/api/castles
-    # Concurrent Flow call
+    # GenFlow call
     curl -XGET http://localhost:4000/api/castles_flow
     # External Avatar Service call
     curl -XGET http://localhost:4000/api/castles_svc
