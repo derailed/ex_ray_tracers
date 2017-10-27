@@ -1,0 +1,10 @@
+postgresUser:     fernand
+postgresPassword: Blee!
+persistence:
+  size: 20M
+resources:
+  requests:
+    memory: 256Mi
+    cpu:    100m
+service:
+  type: NodePort
