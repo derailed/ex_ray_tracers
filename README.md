@@ -1,6 +1,5 @@
 # Tracers
 
-Sample Phoenix apps to demonstrate OpenTracing with Elixir.
 <div align="center" style="margin-top:20px;">
   <img src="assets/tracer.jpg"/>
 </div>
